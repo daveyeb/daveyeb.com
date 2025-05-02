@@ -1,0 +1,27 @@
+.mt-32 {
+  margin-top: 8rem;
+}
+
+
+:root {
+  --foreground-rgb: 152, 163, 173;
+  --background-start-rgb: 23, 23, 23;
+  --background-end-rgb: 23, 23, 23;
+}
+
+body {
+  font-family: "Recursive", monospace;
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+  max-width: 790px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+  line-height: 1.6;
+}
+
+

@@ -1,0 +1,26 @@
+h1,
+h2 {
+  color: #B0B0B0;
+  text-transform: lowercase;
+}
+
+a {
+  text-decoration: underline;
+  color: #f3f3f3;
+}
+
+a:hover {
+  color: #F97582;
+}
+
+a:hover * {
+  color: #F97582 !important;
+}
+
+strong {
+  color: #f3f3f3;
+}
+
+span {
+  color: #F97582;
+}
