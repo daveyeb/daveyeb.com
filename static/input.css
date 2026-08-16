@@ -36,7 +36,7 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
-  max-width: 790px;
+  max-width: 900px;
   margin: 2rem auto;
   padding: 0 1rem;
   line-height: 1.6;

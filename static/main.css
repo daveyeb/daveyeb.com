@@ -23,4 +23,5 @@ strong {
 
 span {
   color: #F97582;
+  white-space: nowrap;
 }
