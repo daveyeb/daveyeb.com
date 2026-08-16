@@ -11,12 +11,12 @@ i build tools, backend systems, and web apps. i care about performance, clean in
 ## projects
 
 - [**pathsignal**](https://trypathsignal.com): ranks the projects and next actions buried in your chatgpt export <span>(rust + next.js)</span>
-- **zappe**: real-time multi-language transcription with speaker diarization <span>(rust + whisper + claude)</span>
+- **zappe**: real-time multi-language transcription with speaker diarization <span>(rust)</span>
 - **soundcircle**: collaborative listening with stateful sessions <span>(rust on cf workers)</span>
-<!-- - [**rmap.rs**](https://rmap.daveyeb.workers.dev): parses source code and builds interactive dependency graphs <span>(rust + next.js)</span> -->
 - [**node-enigma**](https://github.com/daveyeb/node-enigma): simulates ww2 wehrmacht and kriegsmarine enigma machines <span>(node.js)</span>
 <!-- - [**auth-multiplex**](https://github.com/daveyeb/auth-multiplex): oauth backend in rust with plug-and-play provider support <span>(rust) </span> -->
 
+<!-- - [**rmap.rs**](https://rmap.daveyeb.workers.dev): parses source code and builds interactive dependency graphs <span>(rust + next.js)</span> -->
 <!-- ## writing -->
 <!---->
 <!-- - _scaling comments with durable objects_ — mar 2025 -->
