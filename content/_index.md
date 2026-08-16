@@ -10,7 +10,7 @@ i build tools, backend systems, and web apps. i care about performance, clean in
 
 ## projects
 
-- [**pathsignal**](https://trypathsignal.com): ranks the projects and next actions buried in your chatgpt export <span>(rust + next.js)</span>
+- [**pathsignal**](https://trypathsignal.com): ranks the projects and next actions buried in your ai chats <span>(rust + next.js)</span>
 - **zappe**: real-time multi-language transcription with speaker diarization <span>(rust)</span>
 - **soundcircle**: collaborative listening with stateful sessions <span>(rust on cf workers)</span>
 - [**node-enigma**](https://github.com/daveyeb/node-enigma): simulates ww2 wehrmacht and kriegsmarine enigma machines <span>(node.js)</span>
