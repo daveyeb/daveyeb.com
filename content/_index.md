@@ -14,9 +14,6 @@ i build tools, backend systems, and web apps. i care about performance, clean in
 - **zappe**: real-time multi-language transcription with speaker diarization <span>(rust + whisper + claude)</span>
 - **soundcircle**: collaborative listening platform with stateful sessions <span>(rust on cf workers)</span>
 <!-- - [**rmap.rs**](https://rmap.daveyeb.workers.dev): parses source code and builds interactive dependency graphs <span>(rust + next.js)</span> -->
-  <!-- - **spotify-sync**: single-device synchronized playback using spotify api -->
-    <!-- - **epa-emissions-app**: lets facilities calculate emissions, submit filings, and pay the EPA (java spring + react) -->
-    <!-- - **comment-engine**: real-time comment system using cloudflare durable objects   -->
 - [**node-enigma**](https://github.com/daveyeb/node-enigma): simulates wehrmacht and modified kreigsmarine enigma used in ww2 <span>(node.js) </span>
 - [**auth-multiplex**](https://github.com/daveyeb/auth-multiplex): oauth backend in rust with plug-and-play provider support <span>(rust) </span>
 
