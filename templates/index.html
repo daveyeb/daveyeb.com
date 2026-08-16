@@ -3,8 +3,8 @@
   <head>
     <meta charset="UTF-8" />
     <title>{{ section.title }}</title>
-    <link rel="stylesheet" href="/style.css" />
-    <link rel="stylesheet" href="/main.css" />
+    <link rel="stylesheet" href="{{ get_url(path='style.css', cachebust=true) | safe }}" />
+    <link rel="stylesheet" href="{{ get_url(path='main.css', cachebust=true) | safe }}" />
   </head>
   <body class="mt-32">
     {{ section.content | safe }}
