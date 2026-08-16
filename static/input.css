@@ -2,19 +2,19 @@
 @tailwind utilities;
 
 @font-face {
-  font-family: "Commit Mono";
+  font-family: "Inter";
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(/fonts/CommitMono-400-Regular.woff2) format("woff2");
+  src: url(/fonts/inter-latin-400-normal.woff2) format("woff2");
 }
 
 @font-face {
-  font-family: "Commit Mono";
-  font-style: italic;
+  font-family: "Inter";
+  font-style: normal;
   font-display: swap;
-  font-weight: 400;
-  src: url(/fonts/CommitMono-400-Italic.woff2) format("woff2");
+  font-weight: 700;
+  src: url(/fonts/inter-latin-700-normal.woff2) format("woff2");
 }
 
 :root {
@@ -28,7 +28,7 @@
 }
 
 body {
-  font-family: "Commit Mono", monospace;
+  font-family: "Inter", sans-serif;
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
       to bottom,
