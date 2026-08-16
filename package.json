@@ -7,7 +7,9 @@
     "dev": "npm run zola & npm run watch:css",
     "zola": "zola serve",
     "build:css": "postcss static/input.css -o static/style.css",
-    "watch:css": "postcss static/input.css -o static/style.css --watch"
+    "watch:css": "postcss static/input.css -o static/style.css --watch",
+    "build": "npm run build:css && zola build",
+    "deploy": "npm run build && wrangler pages deploy public --project-name=daveyeb"
   },
   "repository": {
     "type": "git",
