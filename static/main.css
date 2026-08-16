@@ -19,6 +19,7 @@ a:hover * {
 }
 
 strong {
+  font-family: "Recursive", sans-serif;
   color: #f3f3f3;
 }
 
